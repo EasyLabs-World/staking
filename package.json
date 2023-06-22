@@ -1,7 +1,7 @@
 {
-  "name": "final_project",
+  "name": "staking",
   "version": "0.1.0",
-  "description": "Final project for Consensys Academy ",
+  "description": "staking contract for EasyLabs",
   "main": "truffle.js",
   "directories": {
     "test": "test"
@@ -15,8 +15,6 @@
     "ethereum",
     "dapp"
   ],
-  "author": "Antonios Hadjigeorgalis <Antonios@Hadji.co> (https://antonioshadji.github.io/)",
-  "license": "MIT",
   "devDependencies": {
     "chai": "4.1.2",
     "dotenv": "6.0.0",
